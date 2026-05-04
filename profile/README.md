@@ -2,7 +2,7 @@
 
 <img src="https://devopsolution.net/assets/images/devop-logo-03-01.png" alt="DEVOPSolution Logo" width="200"/>
 
-<h1>DEVOPSolution</h1>
+<h1>DEVOPSOLUTION</h1>
 
 <p>Your one-stop shop for innovative and inspiring digital solutions</p>
 
