@@ -2,9 +2,9 @@
 
 <img src="https://devopsolution.net/assets/images/devop-logo-03-01.png" alt="DEVOPSolution Logo" width="200"/>
 
-# DEVOPSolution
+<h1>DEVOPSolution</h1>
 
-**Your one-stop shop for innovative and inspiring digital solutions**
+<p>Your one-stop shop for innovative and inspiring digital solutions</p>
 
 <a href="https://devopsolution.net">
   <img src="https://img.shields.io/badge/Website-devopsolution.net-1E73BE?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
@@ -15,9 +15,7 @@
 <a href="https://maps.google.com/?q=Nasr+City,Cairo,Egypt">
   <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-1E73BE?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Established-2018-0A66C2?style=flat-square&logo=calendar&logoColor=white" alt="Established" />
-</a>
+<img src="https://img.shields.io/badge/Established-2018-0A66C2?style=flat-square&logo=calendar&logoColor=white" alt="Established" />
 
 </div>
 
@@ -63,8 +61,7 @@ Our multidisciplinary team combines technical depth with creative excellence to 
 **Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-0A66C2?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-1E73BE?style=flat-square&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-0A66C2?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-1E73BE?style=flat-square&logo=react&logoColor=white)
 
 **Cloud & DevOps**
 
