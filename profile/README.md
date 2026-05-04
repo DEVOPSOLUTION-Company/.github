@@ -6,10 +6,18 @@
 
 **Your one-stop shop for innovative and inspiring digital solutions**
 
-[![Website](https://img.shields.io/badge/Website-devopsolution.net-1E73BE?style=flat-square&logo=google-chrome&logoColor=white)](https://devopsolution.net)
-[![Email](https://img.shields.io/badge/Email-info%40devopsolution.net-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:info@devopsolution.net)
-[![Location](https://img.shields.io/badge/Location-Cairo%2C%20Egypt-1E73BE?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Nasr+City,Cairo,Egypt)
-[![Established](https://img.shields.io/badge/Established-2018-0A66C2?style=flat-square&logo=calendar&logoColor=white)](#)
+<a href="https://devopsolution.net">
+  <img src="https://img.shields.io/badge/Website-devopsolution.net-1E73BE?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
+<a href="mailto:info@devopsolution.net">
+  <img src="https://img.shields.io/badge/Email-info%40devopsolution.net-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://maps.google.com/?q=Nasr+City,Cairo,Egypt">
+  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-1E73BE?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Established-2018-0A66C2?style=flat-square&logo=calendar&logoColor=white" alt="Established" />
+</a>
 
 </div>
 
