@@ -56,10 +56,13 @@ Our multidisciplinary team combines technical depth with creative excellence to 
 
 ![Flutter](https://img.shields.io/badge/Flutter-0A66C2?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-1E73BE?style=flat-square&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-0A66C2?style=flat-square&logo=react&logoColor=white)
 
 **Cloud & DevOps**
 
 ![Azure](https://img.shields.io/badge/Azure-0A66C2?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1E73BE?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0A66C2?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1E73BE?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0A66C2?style=flat-square&logo=githubactions&logoColor=white)
 
@@ -67,12 +70,12 @@ Our multidisciplinary team combines technical depth with creative excellence to 
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-1E73BE?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-0A66C2?style=flat-square&logo=mysql&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-1E73BE?style=flat-square&logo=microsoftazure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1E73BE?style=flat-square&logo=mongodb&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0A66C2?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **AI**
 
-![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0A66C2?style=flat-square&logo=microsoftazure&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-1E73BE?style=flat-square&logo=microsoftazure&logoColor=white)
+We harness the full spectrum of cutting-edge AI — from large language models and generative media to intelligent agents and workflow automation. Our team continuously explores and integrates the best-in-class AI technologies across every major platform and provider, building solutions that are as intelligent as they are impactful.
 
 ---
 
@@ -84,6 +87,8 @@ Our multidisciplinary team combines technical depth with creative excellence to 
 | ✈️ **Yalla Tour** | All-in-one travel and tourism booking platform | [Learn more](https://devopsolution.net) |
 | 🏥 **Medical ChatBot** | AI-powered conversational assistant for healthcare providers and patients | [Learn more](https://devopsolution.net) |
 | 📋 **Nafizaty** | Digital permit and document workflow management system | [Learn more](https://devopsolution.net) |
+
+> 💡 These are just a few highlights — we have built many more products and custom solutions across industries. [Contact us](https://devopsolution.net) to explore how we can build yours.
 
 ---
 
