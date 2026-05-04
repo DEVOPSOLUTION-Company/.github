@@ -111,7 +111,7 @@ We harness the full spectrum of cutting-edge AI — from large language models a
 
 ## 📬 Get in Touch
 
-| | |
+| Contact | Details |
 |---|---|
 | 🌐 **Website** | [devopsolution.net](https://devopsolution.net) |
 | 📧 **Email** | [info@devopsolution.net](mailto:info@devopsolution.net) |
